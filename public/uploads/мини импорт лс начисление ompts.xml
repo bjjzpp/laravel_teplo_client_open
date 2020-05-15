@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ompts_lss>
+	<ompts_ls>
+		<ls_id_qr>20</ls_id_qr>
+		<ls_qr>10155</ls_qr>
+		<fio_qr>Вылупко Андрей Владимирович</fio_qr>
+		<title_qr>Квитанция за Апрель 2020г.</title_qr>
+		<debt_qr>-4060.08</debt_qr>
+		<advance_pay_begin_qr>0.00</advance_pay_begin_qr>
+		<pay_qr>0.00</pay_qr>
+		<charge_qr>8120.44</charge_qr>
+		<payPeriod_qr>0420</payPeriod_qr>
+	</ompts_ls>
+	<ompts_ls>
+		<ls_id_qr>21</ls_id_qr>
+		<ls_qr>10131</ls_qr>
+		<fio_qr>Баткова Лидия Викторовна</fio_qr>
+		<title_qr>Квитанция за Апрель 2020г.</title_qr>
+		<debt_qr>0.00</debt_qr>
+		<advance_pay_begin_qr>0.00</advance_pay_begin_qr>
+		<pay_qr>2411.28</pay_qr>
+		<charge_qr>2411.28</charge_qr>
+		<payPeriod_qr>0420</payPeriod_qr>
+	</ompts_ls>
+	<ompts_ls>
+		<ls_id_qr>22</ls_id_qr>
+		<ls_qr>10123</ls_qr>
+		<fio_qr>Баткова Людмила Евгеньевна</fio_qr>
+		<title_qr>Квитанция за Апрель 2020г.</title_qr>
+		<debt_qr>-0.48</debt_qr>
+		<advance_pay_begin_qr>0.00</advance_pay_begin_qr>
+		<pay_qr>1415.00</pay_qr>
+		<charge_qr>1413.49</charge_qr>
+		<payPeriod_qr>0420</payPeriod_qr>
+	</ompts_ls>
+	<ompts_ls>
+		<ls_id_qr>23</ls_id_qr>
+		<ls_qr>10217</ls_qr>
+		<fio_qr>Кирпикова Анастасия Владимировна</fio_qr>
+		<title_qr>Квитанция за Апрель 2020г.</title_qr>
+		<debt_qr>13376.12</debt_qr>
+		<advance_pay_begin_qr>0.00</advance_pay_begin_qr>
+		<pay_qr>0.00</pay_qr>
+		<charge_qr>19132.62</charge_qr>
+		<payPeriod_qr>0420</payPeriod_qr>
+	</ompts_ls>
+	<ompts_ls>
+		<ls_id_qr>24</ls_id_qr>
+		<ls_qr>10140</ls_qr>
+		<fio_qr>Харитонова Александра Гавриловна</fio_qr>
+		<title_qr>Квитанция за Апрель 2020г.</title_qr>
+		<debt_qr>-0.34</debt_qr>
+		<advance_pay_begin_qr>0.00</advance_pay_begin_qr>
+		<pay_qr>1497.50</pay_qr>
+		<charge_qr>2029.14</charge_qr>
+		<payPeriod_qr>0420</payPeriod_qr>
+	</ompts_ls>
+	<ompts_ls>
+		<ls_id_qr>25</ls_id_qr>
+		<ls_qr>10141</ls_qr>
+		<fio_qr>Павлова Фаина Алексеевна</fio_qr>
+		<title_qr>Квитанция за Апрель 2020г.</title_qr>
+		<debt_qr>0.00</debt_qr>
+		<advance_pay_begin_qr>0.00</advance_pay_begin_qr>
+		<pay_qr>2328.91</pay_qr>
+		<charge_qr>3127.39</charge_qr>
+		<payPeriod_qr>0420</payPeriod_qr>
+	</ompts_ls>
+	<ompts_ls>
+		<ls_id_qr>26</ls_id_qr>
+		<ls_qr>10142</ls_qr>
+		<fio_qr>Ромашина Валентина Ивановна</fio_qr>
+		<title_qr>Квитанция за Апрель 2020г.</title_qr>
+		<debt_qr>0.00</debt_qr>
+		<advance_pay_begin_qr>0.00</advance_pay_begin_qr>
+		<pay_qr>7003.33</pay_qr>
+		<charge_qr>8367.41</charge_qr>
+		<payPeriod_qr>0420</payPeriod_qr>
+	</ompts_ls>
+	<ompts_ls>
+		<ls_id_qr>27</ls_id_qr>
+		<ls_qr>10148</ls_qr>
+		<fio_qr>Ермакова Екатерина Александровна</fio_qr>
+		<title_qr>Квитанция за Апрель 2020г.</title_qr>
+		<debt_qr>0.00</debt_qr>
+		<advance_pay_begin_qr>0.00</advance_pay_begin_qr>
+		<pay_qr>3400.00</pay_qr>
+		<charge_qr>3353.82</charge_qr>
+		<payPeriod_qr>0420</payPeriod_qr>
+	</ompts_ls>
+	<ompts_ls>
+		<ls_id_qr>28</ls_id_qr>
+		<ls_qr>10146</ls_qr>
+		<fio_qr>Смирнов Михаил Васильевич</fio_qr>
+		<title_qr>Квитанция за Апрель 2020г.</title_qr>
+		<debt_qr>0.00</debt_qr>
+		<advance_pay_begin_qr>0.00</advance_pay_begin_qr>
+		<pay_qr>1996.21</pay_qr>
+		<charge_qr>2079.38</charge_qr>
+		<payPeriod_qr>0420</payPeriod_qr>
+	</ompts_ls>
+	<ompts_ls>
+		<ls_id_qr>29</ls_id_qr>
+		<ls_qr>10149</ls_qr>
+		<fio_qr>Тихомиров Борис Борисович</fio_qr>
+		<title_qr>Квитанция за Апрель 2020г.</title_qr>
+		<debt_qr>0.00</debt_qr>
+		<advance_pay_begin_qr>0.00</advance_pay_begin_qr>
+		<pay_qr>3443.46</pay_qr>
+		<charge_qr>3792.79</charge_qr>
+		<payPeriod_qr>0420</payPeriod_qr>
+	</ompts_ls>
+	<ompts_ls>
+		<ls_id_qr>30</ls_id_qr>
+		<ls_qr>10150</ls_qr>
+		<fio_qr>Кудрявцев Вадим Павлович</fio_qr>
+		<title_qr>Квитанция за Апрель 2020г.</title_qr>
+		<debt_qr>14534.29</debt_qr>
+		<advance_pay_begin_qr>0.00</advance_pay_begin_qr>
+		<pay_qr>0.00</pay_qr>
+		<charge_qr>17595.14</charge_qr>
+		<payPeriod_qr>0420</payPeriod_qr>
+	</ompts_ls>
+	<ompts_ls>
+		<ls_id_qr>31</ls_id_qr>
+		<ls_qr>10151</ls_qr>
+		<fio_qr>Ефимова Александра Ефимовна</fio_qr>
+		<title_qr>Квитанция за Апрель 2020г.</title_qr>
+		<debt_qr>0.00</debt_qr>
+		<advance_pay_begin_qr>0.00</advance_pay_begin_qr>
+		<pay_qr>2111.96</pay_qr>
+		<charge_qr>2162.56</charge_qr>
+		<payPeriod_qr>0420</payPeriod_qr>
+	</ompts_ls>
+	<ompts_ls>
+		<ls_id_qr>32</ls_id_qr>
+		<ls_qr>10153</ls_qr>
+		<fio_qr>Журавлева Татьяна Ивановна</fio_qr>
+		<title_qr>Квитанция за Апрель 2020г.</title_qr>
+		<debt_qr>-0.01</debt_qr>
+		<advance_pay_begin_qr>0.00</advance_pay_begin_qr>
+		<pay_qr>2234.09</pay_qr>
+		<charge_qr>2328.90</charge_qr>
+		<payPeriod_qr>0420</payPeriod_qr>
+	</ompts_ls>
+	<ompts_ls>
+		<ls_id_qr>33</ls_id_qr>
+		<ls_qr>11228</ls_qr>
+		<fio_qr>Куракова Наталья Васильевна</fio_qr>
+		<title_qr>Квитанция за Апрель 2020г.</title_qr>
+		<debt_qr>10973.32</debt_qr>
+		<advance_pay_begin_qr>0.00</advance_pay_begin_qr>
+		<pay_qr>0.00</pay_qr>
+		<charge_qr>11821.71</charge_qr>
+		<payPeriod_qr>0420</payPeriod_qr>
+	</ompts_ls>
+	<ompts_ls>
+		<ls_id_qr>34</ls_id_qr>
+		<ls_qr>11229</ls_qr>
+		<fio_qr>Токарь Анатолий Павлович</fio_qr>
+		<title_qr>Квитанция за Апрель 2020г.</title_qr>
+		<debt_qr>0.00</debt_qr>
+		<advance_pay_begin_qr>0.00</advance_pay_begin_qr>
+		<pay_qr>682.03</pay_qr>
+		<charge_qr>715.13</charge_qr>
+		<payPeriod_qr>0420</payPeriod_qr>
+	</ompts_ls>
+	<ompts_ls>
+		<ls_id_qr>35</ls_id_qr>
+		<ls_qr>11230</ls_qr>
+		<fio_qr>Ионов Дмитрий Юрьевич</fio_qr>
+		<title_qr>Квитанция за Апрель 2020г.</title_qr>
+		<debt_qr>6140.93</debt_qr>
+		<advance_pay_begin_qr>0.00</advance_pay_begin_qr>
+		<pay_qr>0.00</pay_qr>
+		<charge_qr>8286.85</charge_qr>
+		<payPeriod_qr>0420</payPeriod_qr>
+	</ompts_ls>
+	<ompts_ls>
+		<ls_id_qr>36</ls_id_qr>
+		<ls_qr>11231</ls_qr>
+		<fio_qr>Стефанович Владимир Валерьевич</fio_qr>
+		<title_qr>Квитанция за Апрель 2020г.</title_qr>
+		<debt_qr>16850.83</debt_qr>
+		<advance_pay_begin_qr>0.00</advance_pay_begin_qr>
+		<pay_qr>0.00</pay_qr>
+		<charge_qr>17566.14</charge_qr>
+		<payPeriod_qr>0420</payPeriod_qr>
+	</ompts_ls>
+	<ompts_ls>
+		<ls_id_qr>37</ls_id_qr>
+		<ls_qr>11232</ls_qr>
+		<fio_qr>Голик Татьяна Александровна</fio_qr>
+		<title_qr>Квитанция за Апрель 2020г.</title_qr>
+		<debt_qr>0.00</debt_qr>
+		<advance_pay_begin_qr>0.00</advance_pay_begin_qr>
+		<pay_qr>1480.52</pay_qr>
+		<charge_qr>1114.55</charge_qr>
+		<payPeriod_qr>0420</payPeriod_qr>
+	</ompts_ls>
+	<ompts_ls>
+		<ls_id_qr>38</ls_id_qr>
+		<ls_qr>10225</ls_qr>
+		<fio_qr>Фельдман Григорий Ноехович</fio_qr>
+		<title_qr>Квитанция за Апрель 2020г.</title_qr>
+		<debt_qr>0.00</debt_qr>
+		<advance_pay_begin_qr>0.00</advance_pay_begin_qr>
+		<pay_qr>15062.72</pay_qr>
+		<charge_qr>16179.24</charge_qr>
+		<payPeriod_qr>0420</payPeriod_qr>
+	</ompts_ls>
+	<ompts_ls>
+		<ls_id_qr>39</ls_id_qr>
+		<ls_qr>10137</ls_qr>
+		<fio_qr>Прокушева Надежда Викторовна</fio_qr>
+		<title_qr>Квитанция за Арель 2020г.</title_qr>
+		<debt_qr>0.00</debt_qr>
+		<advance_pay_begin_qr>0.00</advance_pay_begin_qr>
+		<pay_qr>19640.62</pay_qr>
+		<charge_qr>40177.55</charge_qr>
+		<payPeriod_qr>0420</payPeriod_qr>
+	</ompts_ls>
+	<ompts_ls>
+		<ls_id_qr>40</ls_id_qr>
+		<ls_qr>10138</ls_qr>
+		<fio_qr>Кононенко Сергей Николаевич</fio_qr>
+		<title_qr>Квитанция за Апрель 2020г.</title_qr>
+		<debt_qr>8096.69</debt_qr>
+		<advance_pay_begin_qr>0.00</advance_pay_begin_qr>
+		<pay_qr>0.00</pay_qr>
+		<charge_qr>16493.02</charge_qr>
+		<payPeriod_qr>0420</payPeriod_qr>
+	</ompts_ls>
+	<ompts_ls>
+		<ls_id_qr>41</ls_id_qr>
+		<ls_qr>10157</ls_qr>
+		<fio_qr>Асрибабаян Армен Ашотович</fio_qr>
+		<title_qr>Квитанция за Апрель 2020г.</title_qr>
+		<debt_qr>0.00</debt_qr>
+		<advance_pay_begin_qr>0.00</advance_pay_begin_qr>
+		<pay_qr>15221.14</pay_qr>
+		<charge_qr>15221.14</charge_qr>
+		<payPeriod_qr>0420</payPeriod_qr>
+	</ompts_ls>
+	<ompts_ls>
+		<ls_id_qr>42</ls_id_qr>
+		<ls_qr>10158</ls_qr>
+		<fio_qr>Беличенко Екатерина Александровна</fio_qr>
+		<title_qr>Квитанция за Апрель 2020г.</title_qr>
+		<debt_qr>0.00</debt_qr>
+		<advance_pay_begin_qr>0.00</advance_pay_begin_qr>
+		<pay_qr>18461.80</pay_qr>
+		<charge_qr>17121.76</charge_qr>
+		<payPeriod_qr>0420</payPeriod_qr>
+	</ompts_ls>
+	<ompts_ls>
+		<ls_id_qr>43</ls_id_qr>
+		<ls_qr>11227</ls_qr>
+		<fio_qr>Фельдман Янна Ноеховна</fio_qr>
+		<title_qr>Квитанция за Апрель 2020г.</title_qr>
+		<debt_qr>-0.68</debt_qr>
+		<advance_pay_begin_qr>0.00</advance_pay_begin_qr>
+		<pay_qr>7620.0</pay_qr>
+		<charge_qr>8355.59</charge_qr>
+		<payPeriod_qr>0420</payPeriod_qr>
+	</ompts_ls>
+	<ompts_ls>
+		<ls_id_qr>44</ls_id_qr>
+		<ls_qr>10126</ls_qr>
+		<fio_qr>Клоков Михаил Михайлович</fio_qr>
+		<title_qr>Квитанция за Апрель 2020г.</title_qr>
+		<debt_qr>7509.50</debt_qr>
+		<advance_pay_begin_qr>0.00</advance_pay_begin_qr>
+		<pay_qr>0.00</pay_qr>
+		<charge_qr>9330.63</charge_qr>
+		<payPeriod_qr>0420</payPeriod_qr>
+	</ompts_ls>
+	<ompts_ls>
+		<ls_id_qr>45</ls_id_qr>
+		<ls_qr>10154</ls_qr>
+		<fio_qr>Величкин Евгений Васильевич</fio_qr>
+		<title_qr>Квитанция за Апрель 2020г.</title_qr>
+		<debt_qr>5039.60</debt_qr>
+		<advance_pay_begin_qr>0.00</advance_pay_begin_qr>
+		<pay_qr>0.00</pay_qr>
+		<charge_qr>7659.21</charge_qr>
+		<payPeriod_qr>0420</payPeriod_qr>
+	</ompts_ls>
+	<ompts_ls>
+		<ls_id_qr>46</ls_id_qr>
+		<ls_qr>10127</ls_qr>
+		<fio_qr>Скоробогат Михаил Львович</fio_qr>
+		<title_qr>Квитанция за Апрель 2020г.</title_qr>
+		<debt_qr>0.00</debt_qr>
+		<advance_pay_begin_qr>0.00</advance_pay_begin_qr>
+		<pay_qr>8391.16</pay_qr>
+		<charge_qr>7243.34</charge_qr>
+		<payPeriod_qr>0420</payPeriod_qr>
+	</ompts_ls>
+	<ompts_ls>
+		<ls_id_qr>47</ls_id_qr>
+		<ls_qr>10134</ls_qr>
+		<fio_qr>Белова Галина Алексеевна</fio_qr>
+		<title_qr>Квитанция за Апрель 2020г.</title_qr>
+		<debt_qr>0.00</debt_qr>
+		<advance_pay_begin_qr>0.00</advance_pay_begin_qr>
+		<pay_qr>2263.14</pay_qr>
+		<charge_qr>2096.78</charge_qr>
+		<payPeriod_qr>0420</payPeriod_qr>
+	</ompts_ls>
+	<ompts_ls>
+		<ls_id_qr>48</ls_id_qr>
+		<ls_qr>10128</ls_qr>
+		<fio_qr>Черниченко Николай Алексеевич</fio_qr>
+		<title_qr>Квитанция за Апрель 2020г.</title_qr>
+		<debt_qr>-0.28</debt_qr>
+		<advance_pay_begin_qr>0.00</advance_pay_begin_qr>
+		<pay_qr>2005.00</pay_qr>
+		<charge_qr>3111.25</charge_qr>
+		<payPeriod_qr>0420</payPeriod_qr>
+	</ompts_ls>
+	<ompts_ls>
+		<ls_id_qr>49</ls_id_qr>
+		<ls_qr>10129</ls_qr>
+		<fio_qr>Арутюнян Тархан Джумшудович</fio_qr>
+		<title_qr>Квитанция за Апрель 2020г.</title_qr>
+		<debt_qr>13963.57</debt_qr>
+		<advance_pay_begin_qr>0.00</advance_pay_begin_qr>
+		<pay_qr>0.00</pay_qr>
+		<charge_qr>21618.09</charge_qr>
+		<payPeriod_qr>0420</payPeriod_qr>
+	</ompts_ls>
+	<ompts_ls>
+		<ls_id_qr>50</ls_id_qr>
+		<ls_qr>10135</ls_qr>
+		<fio_qr>Перцовский Александр Григорьевич</fio_qr>
+		<title_qr>Квитанция за Апрель 2020г.</title_qr>
+		<debt_qr>-11849.09</debt_qr>
+		<advance_pay_begin_qr>0.00</advance_pay_begin_qr>
+		<pay_qr>0.00</pay_qr>
+		<charge_qr>0.00</charge_qr>
+		<payPeriod_qr>0420</payPeriod_qr>
+	</ompts_ls>
+	<ompts_ls>
+		<ls_id_qr>51</ls_id_qr>
+		<ls_qr>10139</ls_qr>
+		<fio_qr>Савичева Светлана Николаевна</fio_qr>
+		<title_qr>Квитанция за Апрель 2020г.</title_qr>
+		<debt_qr>0.00</debt_qr>
+		<advance_pay_begin_qr>0.00</advance_pay_begin_qr>
+		<pay_qr>1688.96</pay_qr>
+		<charge_qr>1256.45</charge_qr>
+		<payPeriod_qr>0420</payPeriod_qr>
+	</ompts_ls>
+	<ompts_ls>
+		<ls_id_qr>52</ls_id_qr>
+		<ls_qr>10136</ls_qr>
+		<fio_qr>Малинов Александр Иванович</fio_qr>
+		<title_qr>Квитанция за Апрель 2020г.</title_qr>
+		<debt_qr>0.00</debt_qr>
+		<advance_pay_begin_qr>0.00</advance_pay_begin_qr>
+		<pay_qr>7915.39</pay_qr>
+		<charge_qr>7915.39</charge_qr>
+		<payPeriod_qr>0420</payPeriod_qr>
+	</ompts_ls>
+	<ompts_ls>
+		<ls_id_qr>53</ls_id_qr>
+		<ls_qr>11234</ls_qr>
+		<fio_qr>Павлов Вячеслав Анатольевич</fio_qr>
+		<title_qr>Квитанция за Апрель 2020г.</title_qr>
+		<debt_qr>-315.45</debt_qr>
+		<advance_pay_begin_qr>0.00</advance_pay_begin_qr>
+		<pay_qr>2000.00</pay_qr>
+		<charge_qr>1345.95</charge_qr>
+		<payPeriod_qr>0420</payPeriod_qr>
+	</ompts_ls>
+	<ompts_ls>
+		<ls_id_qr>54</ls_id_qr>
+		<ls_qr>11235</ls_qr>
+		<fio_qr>Бурнос Марина Валентиновна</fio_qr>
+		<title_qr>Квитанция за Апрель 2020г.</title_qr>
+		<debt_qr>8903.20</debt_qr>
+		<advance_pay_begin_qr>0.00</advance_pay_begin_qr>
+		<pay_qr>0.00</pay_qr>
+		<charge_qr>14221.84</charge_qr>
+		<payPeriod_qr>0420</payPeriod_qr>
+	</ompts_ls>
+	<ompts_ls>
+		<ls_id_qr>55</ls_id_qr>
+		<ls_qr>11233</ls_qr>
+		<fio_qr>Муслаков Евгений Викторович</fio_qr>
+		<title_qr>Квитанция за Апрель 2020г.</title_qr>
+		<debt_qr>-0.88</debt_qr>
+		<advance_pay_begin_qr>0.00</advance_pay_begin_qr>
+		<pay_qr>1586.00</pay_qr>
+		<charge_qr>1470.27</charge_qr>
+		<payPeriod_qr>0420</payPeriod_qr>
+	</ompts_ls>
+	<ompts_ls>
+		<ls_id_qr>56</ls_id_qr>
+		<ls_qr>10032</ls_qr>
+		<fio_qr>Нетреба Лариса Джаппаровна</fio_qr>
+		<title_qr>Квитанция за Апрель 2020г.</title_qr>
+		<debt_qr>2082.98</debt_qr>
+		<advance_pay_begin_qr>0.00</advance_pay_begin_qr>
+		<pay_qr>0.00</pay_qr>
+		<charge_qr>4423.96</charge_qr>
+		<payPeriod_qr>0420</payPeriod_qr>
+	</ompts_ls>
+	<ompts_ls>
+		<ls_id_qr>57</ls_id_qr>
+		<ls_qr>11236</ls_qr>
+		<fio_qr>ООО "Источник</fio_qr>
+		<title_qr>Квитанция за Апрель 2020г.</title_qr>
+		<debt_qr>0.00</debt_qr>
+		<advance_pay_begin_qr>0.00</advance_pay_begin_qr>
+		<pay_qr>2240.15</pay_qr>
+		<charge_qr>2240.23</charge_qr>
+		<payPeriod_qr>0420</payPeriod_qr>
+	</ompts_ls>
+</ompts_lss>

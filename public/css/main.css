@@ -1,0 +1,22 @@
+#NewsMiniLeft {
+	height: 300px;
+	width: 395px;
+	overflow: auto;
+}
+
+#ChemasTitle {
+	height: 300px;
+	width: 395px;
+	overflow: auto;
+}
+
+#RcoTitle {
+  height: 300px;
+	overflow: auto;
+}
+
+#NewsMain {
+	width: 800px;
+	height: 250px;
+	overflow: auto;
+}

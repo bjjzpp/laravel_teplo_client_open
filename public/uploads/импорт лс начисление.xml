@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<movies>
+ <movie>
+  <title>PHP: Появление Парсера</title>
+  <characters>
+   <character>
+    <name>Ms. Coder = 1</name>
+    <actor>Test1</actor>
+   </character>
+   <character>
+    <name>Mr. Coder = 2</name>
+    <actor>Test2</actor>
+   </character>
+  </characters>
+  <plot>
+   Таким образом, это язык. Это все равно язык программирования. Или
+   это скриптовый язык? Все раскрывается в этом документальном фильме,
+   похожем на фильм ужасов.
+  </plot>
+  <great-lines>
+   <line>PHP решает все мои проблемы в вебе</line>
+  </great-lines>
+  <rating type="thumbs">7</rating>
+  <rating type="stars">5</rating>
+ </movie>
+ <movie>
+  <title>Laravel</title>
+  <characters>
+   <character>
+    <name>Ms. Coder = 3</name>
+    <actor>Test3</actor>
+   </character>
+   <character>
+    <name>Mr. Coder = 4</name>
+    <actor>Test4</actor>
+   </character>
+  </characters>
+  <plot>
+   Таким образом, это язык. Это все равно язык программирования. Или
+   это скриптовый язык? Все раскрывается в этом документальном фильме,
+   похожем на фильм ужасов.
+  </plot>
+  <great-lines>
+   <line>PHP решает все мои проблемы в вебе</line>
+  </great-lines>
+  <rating type="thumbs">7</rating>
+  <rating type="stars">5</rating>
+ </movie>
+</movies>

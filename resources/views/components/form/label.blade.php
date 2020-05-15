@@ -1,0 +1,1 @@
+{{ Form::label($name, $value, ['class'=>'control-label']) }}

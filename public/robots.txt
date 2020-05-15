@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+Host: teplo.obninsk.ru
+Sitemap: http://teplo.obninsk.ru/sitemap.xml
