@@ -20,7 +20,7 @@
 							<header class="entry-header"><h1 class="entry-title">Новости</h1></header>
 								<div class="entry-content" id="NewsMain">
 									@foreach($News as $New)
-										<small>{{ \Carbon\Carbon::parse( $New->created_at)->format('d.m.Y') }}<br /><a href="{{ route('news.show', ['id' => $New->id ]) }}">{!! $New->title_news !!}</a></small><br /><br />
+										<small>{{ \Carbon\Carbon::parse( $New->created_at)->format('d.m.Y') }}<br /><a href="{{ route('news.show', ['id' => $New->id ]) }}">{!! $New->title_news !!}</a></small><hr>
 									@endforeach
 								</div>
 						</article>

@@ -68,7 +68,7 @@ class PagesController extends Controller
         return view('site.news.index')
             ->with('SiteSetting', SiteSetting::find(1))
             ->with('Page', Page::find(11))
-            ->with('News', News::orderBy('id', 'asc')->get());
+            ->with('News', News::orderBy('created_at', 'desc')->paginate(30));
     }
 
     public function getNewsShowId($id)

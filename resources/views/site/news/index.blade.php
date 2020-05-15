@@ -15,11 +15,12 @@
                             @endif
 
                             @foreach($News as $New)
-                                <a href="{{ route('news.show', ['id' => $New->id ]) }}">{!! $New->title_news !!}</a><br>
+                                 <a href="{{ route('news.show', ['id' => $New->id ]) }}"><small>{{ \Carbon\Carbon::parse( $New->created_at)->format('d.m.Y') }} - {!! $New->title_news !!}</small></a><br /><br />
                             @endforeach
                         </div>
 	            <footer class="entry-footer"></footer>
             </article>
+            {{ $News->links() }}
 		</main>
 	</div>
   </div>
